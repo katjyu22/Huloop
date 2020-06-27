@@ -123,16 +123,9 @@ margin-left: 40px;
     width:95%;
 }
 .list-group-item:hover{
-<<<<<<< HEAD
     background-color: #ABABAB;
     color: white;
 }
-=======
-    background-color: #ababab;
-    color: #ddd;
-}
-
->>>>>>> facbbb131244fa176821e17928e72b600aec7e26
 .huloopList li{
 font-family: "Avenir";
 font-size: 13px;
