@@ -157,7 +157,7 @@ font-weight: 700;
 .prototype{
     text-align: center;
     background-color:#1CE783 ;
-    padding: 100px;
+    padding: 50px;
 }
 .button2{
     background-color: white;
@@ -169,38 +169,34 @@ font-weight: 700;
 }
 
 /* Footer */
-#footer{
-    background-color: black;
-    height: 80px;
-    width: auto;
-    flex-direction: row;
+.footer {
+    background-color: #2A2C32;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 15px;
   }
-  #footer1 p{
+  .footer1 p{
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px;
+    padding: 10px;
     flex-direction: row;
     font-size: 12px;
-  
+    font-weight: 300;
   }
-
-  #footer2 p{
+  .footer2 p{
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px;
+    padding-left: 10px;
     flex-direction: row;
-    font-size: 12px; 
-  
+    font-size: 12px;
+    font-weight: 300;
   }
-
-  #footerRight p{
+  .footerRight p{
     color: white;
     float: right;
-    padding: 14px;
     flex-direction: row;
-    font-size: 12px; 
-    margin-top: -2em;
-    margin-right: 7em;
-  }
+    font-size: 14px; 
+    padding-right: 10px;
+  } 
