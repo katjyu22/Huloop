@@ -157,8 +157,13 @@ font-weight: 700;
 .prototype{
     text-align: center;
     background-color:#1CE783 ;
+    padding: 100px;
 }
 .button2{
     background-color: white;
     color: #151515;
+    text-align: center;
+}
+.prototype h2{
+    padding: 50px;
 }
