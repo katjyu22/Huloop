@@ -182,21 +182,21 @@ font-weight: 700;
     padding: 10px;
     flex-direction: row;
     font-size: 12px;
+    font-weight: 300;
   }
   .footer2 p{
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding-left: 10px;
     flex-direction: row;
-    font-size: 12px; 
+    font-size: 12px;
+    font-weight: 300;
   }
   .footerRight p{
     color: white;
     float: right;
-    padding: 10px;
     flex-direction: row;
-    font-size: 12px; 
-    margin-top: -2em;
-    margin-right: 7em;
+    font-size: 14px; 
+    padding-right: 10px;
   } 
